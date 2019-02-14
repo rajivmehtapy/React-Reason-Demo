@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0 0 0;
+}
+.mb-5 {
+  margin-bottom: 20px;
+}
+.text-box {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+.btn {
+  padding: 6px;
+  background-color: dodgerblue;
+  border: 1px solid dodgerblue;
+  border-radius: 3px;
+  color: white;
+  font-size: 16px;
+}
+
+.active-tab {
+  border-bottom: 2px solid blueviolet;
+}

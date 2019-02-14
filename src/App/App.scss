@@ -1,0 +1,24 @@
+.app-wrap {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 20px auto;
+  align-items: center;
+  padding: 25px 15px;
+  border: 2px solid deepskyblue;
+  border-radius: 3px;
+
+  .tabs {
+    .tab-item {
+      color: blueviolet;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      margin: 0 20px;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

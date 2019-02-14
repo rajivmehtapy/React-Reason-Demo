@@ -1,0 +1,28 @@
+####{BSB GENERATED: NO EDIT
+B lib/bs
+FLG -open ReasonReactTutorial
+FLG -ppx '/home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
+FLG -ppx /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-platform/lib/bsppx.exe
+S /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-platform/lib/ocaml
+B /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/reason-react/lib/ocaml
+B /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/reason-react/lib/ocaml
+S /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-css/lib/ocaml
+B /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-css/lib/ocaml
+S /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-fetch/lib/ocaml
+B /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/bs-fetch/lib/ocaml
+S /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/@glennsl/bs-json/lib/ocaml
+B /home/vivek/Desktop/Vivek_Project/reason-react-tutorial/node_modules/@glennsl/bs-json/lib/ocaml
+S src
+B lib/bs/src
+S src/Form
+B lib/bs/src/Form
+S src/Card
+B lib/bs/src/Card
+S src/Search
+B lib/bs/src/Search
+S src/App
+B lib/bs/src/App
+####BSB GENERATED: NO EDIT}
